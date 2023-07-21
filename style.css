@@ -337,7 +337,7 @@ section{
     width:100%;
     height:600px;
     background: url('images/home1.jpg');
-    animation: changeimg 20s linear 0s infinite;
+/*     animation: changeimg 20s linear 0s infinite; */
 }
 
 @keyframes changeimg{
