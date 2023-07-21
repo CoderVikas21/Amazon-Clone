@@ -8,7 +8,7 @@
   * javascript
   * css
 
-` * Original Website : https://www.amazon.com
+  * Original Website : https://www.amazon.com
   * Clone Website : https://codervikas21.github.io/Amazon-Clone    
 
 
